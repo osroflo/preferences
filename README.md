@@ -8,5 +8,5 @@ This folder contains python scripts to automate manual tasks, like virtual host 
 This folder contains my personal composer management script to install the most common dependencies in my projects.
 
 ### Code editor
-This flder contains the most common settings for my personale preferences. For example, sublime text.
+This folder contains the most common settings for my personale preferences. For example, sublime text.
  
