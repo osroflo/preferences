@@ -1,12 +1,12 @@
-# preferences
+# Preferences
 Personal preferences, scripts and more to make manual tasks or fresh installations easier to manage.
 
-*Scripts*
+### Scripts 
 This folder contains python scripts to automate manual tasks, like virtual host creation.
 
-*Dependency management*
+### Dependency management
 This folder contains my personal composer management script to install the most common dependencies in my projects.
 
-*Code editor*
+### Code editor
 This flder contains the most common settings for my personale preferences. For example, sublime text.
  
