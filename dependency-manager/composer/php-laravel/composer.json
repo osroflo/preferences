@@ -1,0 +1,11 @@
+{
+    "require": {
+        "dericofilho/fmt": "^8.8",
+        "squizlabs/php_codesniffer": "*",
+        "fabpot/php-cs-fixer": "^1.9",
+        "phpunit/phpunit": "^4.7",
+        "phpmd/phpmd": "^2.2",
+        "laravel/lumen-installer": "~1.0",
+        "laravel/installer": "~1.1"
+    }
+}
