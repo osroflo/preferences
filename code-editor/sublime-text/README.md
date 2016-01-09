@@ -6,6 +6,12 @@
 - install package > colorsublime
 - install colorsublime:install theme > earthsong
 
+Change left side color
+- install package > Resource Viewer
+- Ctrl+Ship+P Extractk Package > Material Theme
+- Open Preferences > Browse packages. 
+- Edit the file material theme > Material-Theme.sublime-theme
+
 ### Coding standards
 setup PHPCS
 - https://github.com/benmatselby/sublime-phpcs
