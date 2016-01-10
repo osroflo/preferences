@@ -10,3 +10,5 @@ This folder contains my personal composer management script to install the most 
 ### Code editor
 This folder contains the most common settings for my personale preferences. For example, sublime text.
  
+### OS
+This folder contains settings to trick the OS.
