@@ -54,3 +54,7 @@ setup phpfmt
 ### User settings
 - Go tp preferences > Settings - User 
 - Paste the user-settings content
+
+
+### Install Font Fira Code
+- Go to https://github.com/tonsky/FiraCode
