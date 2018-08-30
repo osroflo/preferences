@@ -13,30 +13,55 @@ This folder contains the most common settings for my personale preferences. For 
 ### OS
 This folder contains settings to trick the OS.
 
-### Terminal
-Install tilix
+
+### Setup Dev Env
+```
+sudo apt-get install git git-core
+
+
+```
+
+
+## Terminal
+
+### Oh My Zshell
+
+```bash
+# install zshell
+sudo apt-get instsall zsh
+
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+
+chsh -s `which zsh`
+
+sudo shutdown -r 0
+
+# references:
+# - https://www.computersnyou.com/3145/setup-zsh-oh-zsh-linux-mint-quick-guide/
+# - https://gist.github.com/tsabat/1498393
+```
+
+
+
+### Tilix
+
 ```bash
 # fedora
-sudo yum install tilix
-```
+sudo apt-get install tilix
 
-Setup config
-```bash
+# setup config
 mkdir -p ~/.config/tilix/themes
-```
 
-Install themes
-```bash
-# clone
+
+# install themes
 git clone https://github.com/storm119/Tilix-Themes
 
 # copy
 cp Tilix-Themes/Themes-2/*  ~/.config/tilix/themes/
 cp Tilix-Themes/Themes/*  ~/.config/tilix/themes/
-```
 
-Prefered themes
-```bash
+
+# prefered themes
 Elemental
 Later This Evening
 Expresso Libre
