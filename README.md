@@ -68,3 +68,12 @@ Expresso Libre
 Earthsong
 Dimmed Monokai
 ```
+
+### PHP Storm
+```bash
+
+# Enable wrap selection
+Settings > Editor > General > Smart Keys: Surround selection on typing quote or brace
+
+
+```
