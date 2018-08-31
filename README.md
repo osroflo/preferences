@@ -70,10 +70,31 @@ Dimmed Monokai
 ```
 
 ### PHP Storm
+
+#### Setup
 ```bash
 
 # Enable wrap selection
 Settings > Editor > General > Smart Keys: Surround selection on typing quote or brace
 
 
+```
+
+#### shortcut
+
+
+```bash
+
+# multiple cursors
+Press Ctrl (Windows or Linux)/Alt(macOS) twice, and then without releasing it, press up or down arrow keys.
+
+# next selection
+alt + j
+
+# toggle upper/lower case
+ctrl + shift + u
+
+
+# reference
+# - https://www.jetbrains.com/help/rider/Multicursor.html
 ```
