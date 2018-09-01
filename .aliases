@@ -10,9 +10,6 @@ alias browsethis="xdg-open ."
 alias lumen_new="composer create-project --prefer-dist laravel/lumen" 
 alias laravel_new="composer create-project --prefer-dist laravel/laravel"
 
-# connect to databases
-alias connect_dev_db="mysql --auto-rehash -udev_user -p -h 192.168.200.5"
-
 # github
 alias gif="git diff "
 alias gip="git push origin "
