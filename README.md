@@ -36,11 +36,14 @@ chsh -s `which zsh`
 
 sudo shutdown -r 0
 
+
+# alias .zshrc
+source ~/.aliases
+
 # references:
 # - https://www.computersnyou.com/3145/setup-zsh-oh-zsh-linux-mint-quick-guide/
 # - https://gist.github.com/tsabat/1498393
 ```
-
 
 
 ### Tilix
@@ -94,6 +97,8 @@ alt + j
 # toggle upper/lower case
 ctrl + shift + u
 
+# move clas to a separate file
+click on class name and press F6
 
 # reference
 # - https://www.jetbrains.com/help/rider/Multicursor.html
