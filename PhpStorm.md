@@ -22,6 +22,9 @@ Click on the class name then press Alt+Enter
 # Reformat block of code
 Code > Reformat Code, or press Ctrl + Alt + L
 
+# camel case snake case toggle (CamelCase plugin is needed)
+Alt + Shift + U
+
 # reference
 # - https://www.jetbrains.com/help/rider/Multicursor.html
 ```
